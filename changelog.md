@@ -1,4 +1,4 @@
-# Changelog – Chatbot KIK PTJ 2025
+# Changelog – Chatbot KIK 2025
 Semua perubahan penting projek ini direkodkan dalam fail ini.
 Versi mengikut format: major.minor.patch-build
 
